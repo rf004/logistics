@@ -1201,7 +1201,3 @@ Possible future improvements include:
 ---
 
 
-
-# 📄 License
-
-This project is developed for educational and development purposes.
