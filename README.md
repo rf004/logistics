@@ -1,7 +1,6 @@
-# logistics
-# Logistics Optimization System
+# 🚜 Agriculture Logistics Optimization System
 
-A system for optimizing the transportation of agricultural produce from farms to warehouses.
+A backend system for optimizing the transportation of agricultural produce from farms to warehouses.
 
 The system processes farms based on **produce urgency and shelf life**, determines suitable storage, assigns feasible trucks based on capacity and compatibility, filters roads according to truck constraints, constructs a truck-specific road graph, finds shortest paths using **Dijkstra's algorithm**, and generates optimized multi-farm pickup routes.
 
@@ -1201,13 +1200,7 @@ Possible future improvements include:
 
 ---
 
-# 👨‍💻 Author
 
-**Aditya**
-
-GitHub: https://github.com/Aditya2584
-
----
 
 # 📄 License
 
